@@ -1,3 +1,2 @@
 # my test file
-fools dont listen
-fools listen now
+my 3rd line
